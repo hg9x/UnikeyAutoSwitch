@@ -1,0 +1,10 @@
+E:\ebook\C#\UnikeyAutoSwitch\UnikeyAutoSwitch\bin\Debug\UnikeyAutoSwitch.exe.config
+E:\ebook\C#\UnikeyAutoSwitch\UnikeyAutoSwitch\bin\Debug\UnikeyAutoSwitch.exe
+E:\ebook\C#\UnikeyAutoSwitch\UnikeyAutoSwitch\bin\Debug\UnikeyAutoSwitch.pdb
+E:\ebook\C#\UnikeyAutoSwitch\UnikeyAutoSwitch\obj\Debug\UnikeyAutoSwitch.csprojResolveAssemblyReference.cache
+E:\ebook\C#\UnikeyAutoSwitch\UnikeyAutoSwitch\obj\Debug\UnikeyAutoSwitch.Form1.resources
+E:\ebook\C#\UnikeyAutoSwitch\UnikeyAutoSwitch\obj\Debug\UnikeyAutoSwitch.Properties.Resources.resources
+E:\ebook\C#\UnikeyAutoSwitch\UnikeyAutoSwitch\obj\Debug\UnikeyAutoSwitch.csproj.GenerateResource.Cache
+E:\ebook\C#\UnikeyAutoSwitch\UnikeyAutoSwitch\obj\Debug\UnikeyAutoSwitch.csproj.CoreCompileInputs.cache
+E:\ebook\C#\UnikeyAutoSwitch\UnikeyAutoSwitch\obj\Debug\UnikeyAutoSwitch.exe
+E:\ebook\C#\UnikeyAutoSwitch\UnikeyAutoSwitch\obj\Debug\UnikeyAutoSwitch.pdb
